@@ -10,7 +10,7 @@ Explore and run the programs provided in the Replit repository:
 
 b. Google Colab – Lecture 3 Programs 
 Run and analyze the code from the Lecture 3 Colab notebook: 
-[Lecture 3 colab Notebook]([https://replit.com/@Minhaj2002/Python-for-AIML-5](https://colab.research.google.com/drive/1oejrlrs3Jum4DJ32QVzUj5v28UbTllWY?usp=sharing))
+[Lecture 3 colab Notebook](https://colab.research.google.com/drive/1oejrlrs3Jum4DJ32QVzUj5v28UbTllWY?usp=sharing)
 
 
 c. Matplotlib – Custom Function Plot 
